@@ -1,6 +1,6 @@
 # Laptop-Price-Predictor-Model
-This project is related to predict the price of Laptops based on their features. This is a Machine Learning Project where  i use python for building the model.
-Building a laptop price prediction model involves several steps, from data collection and preprocessing to model selection and evaluation. I'll provide you with a Python code outline along with descriptions for each step. We'll use various models like linear regression, KNN Classifier, Decision Tree, SVM, and Random Forest for this example, but keep in mind that more complex models might yield better results in practice.
+This project is related to predict the price of Laptops based on their features. This is a Machine Learning Project where  i used python for building the model.
+Building a laptop price prediction model involves several steps, from data collection and preprocessing to model selection and evaluation. I'll provide you with a Python code outline along with descriptions for each step. I used various models like linear regression, KNN Classifier, Decision Tree, SVM, and Random Forest for this, but keep in mind that more complex models might yield better results in practice.
 # Here's a breakdown of the steps:
 Data Collection: Obtain a dataset containing information about laptops and their prices.
 
